@@ -7,7 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## DEPLOYMENT
-tadam
+tadam - do your work 
 
 ## NEW SECTION
 some new paragraph for diff
