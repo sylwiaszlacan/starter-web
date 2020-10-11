@@ -11,3 +11,6 @@ tadam
 
 ## NEW SECTION
 some new paragraph for diff
+
+## Kopirajt
+Some authorization
