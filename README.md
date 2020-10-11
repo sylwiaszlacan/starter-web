@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## DEPLOYMENT
 tadam
+
+## NEW SECTION
+some new paragraph for diff
